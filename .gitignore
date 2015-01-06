@@ -1,4 +1,5 @@
 *.class
 *.java~
 *.java#
+.*.swp
 target
